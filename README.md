@@ -74,15 +74,7 @@ CREATE TABLE scores (
     username VARCHAR(50),
     score INT
 );
-📸 Screenshots (Optional)
-You can add screenshots of:
 
-Login screen
-
-Quiz screen
-
-Scoreboard
-(Upload images and use ![image](link) markdown)
 
 📜 License
 This project is licensed under the MIT License.
